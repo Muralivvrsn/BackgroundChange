@@ -106,7 +106,7 @@ button:hover{
         width: 8rem;
         height: 3rem;
         border-radius: 8px;
-        font-size: 0.5rem;
+        font-size: 1rem;
         letter-spacing: 0.3rem;
         color: black;
         cursor: pointer;
@@ -142,7 +142,7 @@ button:hover{
         width: 8rem;
         height: 2rem;
         border-radius: 8px;
-        font-size: 0.5rem;
+        font-size: 1rem;
         letter-spacing: 0.3rem;
         color: black;
         cursor: pointer;
